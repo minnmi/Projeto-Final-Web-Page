@@ -1,2 +1,3 @@
 # Final Project
-Projeto de uma página web utilizando Bootstrap da disciplina de Linguagem de Programação III
+Projeto de uma página web utilizando Bootstrap 
+Disciplina de Linguagem de Programação III
